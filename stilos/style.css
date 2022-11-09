@@ -35,3 +35,13 @@ section#telefone{
     background: url(../imagens/Mockup-Iphone.png) no-repeat ;
     background-size: cover;
 }
+
+iframe#tela{
+    position: relative;
+    top: 15px;
+    left: 73px;
+    width: 257px;
+    height: 552px;
+    border-radius: 25px;
+
+}
